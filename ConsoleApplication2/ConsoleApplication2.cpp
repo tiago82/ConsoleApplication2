@@ -2,13 +2,16 @@
 //
 
 #include <iostream>
+#include "test1.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
-   
+
+    testClass testvar;
+    testvar.test_a();
+
 
 }
 
