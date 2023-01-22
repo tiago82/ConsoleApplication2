@@ -3,17 +3,27 @@
 
 #include <iostream>
 #include "test1.h"
+#include <cmath>
+
+
 
 using namespace std;
+testClass testvar;
 
 int main()
 {
-
-    testClass testvar;
+    
+    
     testvar.test_a();
 
 
 }
+
+///////////////////////////
+
+
+
+
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
 // Depurar programa: F5 ou menu Depurar > Iniciar Depuração
